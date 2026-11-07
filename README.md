@@ -6,7 +6,7 @@ The full dataset holds **79,780 NCAA men's basketball games, from 20 November 20
 Tournaments from 2010 to 2026 (none in 2020), First Four to the final, the conference tournaments, and the closing
 moneyline of both teams for 76,320 games, with the final score and how each game ended.
 
-→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/chbrtv?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=hero)** — 79,780 games, 19 seasons, 16 NCAA Tournaments
+→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/chbrtv?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=hero)** — 79,780 games, 19 seasons, 16 NCAA Tournaments · also on [Whop](https://whop.com/oliviersportsdata/ncaab-march-madness-historical-closing-odds-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=whop_hero)
 
 This sample is cut from the full file: the same 18 columns, the rows copied byte for byte.
 
@@ -151,7 +151,7 @@ the previous month's games of the 9 US leagues, NCAAB included, in the same colu
 NCAAB included: the
 [US Sports Master](https://sportsdataolivier.gumroad.com/l/ahlplc?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=us_sports_master).
 
-→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/chbrtv?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=footer)**
+→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/chbrtv?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/ncaab-march-madness-historical-closing-odds-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=whop_footer)
 
 ---
 
