@@ -1,0 +1,28 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+NCAAB,2008/2009,Regular Season,2008-11-20,01:00,Appalachian State,Charlotte,87,84,Home,171,3,Overtime,Yes,,,,3
+NCAAB,2008/2009,Regular Season,2008-11-20,01:00,Butler,Ball State,64,55,Home,119,9,Regular Time,No,-1429,,700,1
+NCAAB,2008/2009,Regular Season,2008-11-20,01:00,Villanova,Niagara,77,62,Home,139,15,Regular Time,No,,,,3
+NCAAB,2008/2009,Regular Season,2008-11-20,01:00,Virginia,South Florida,77,75,Home,152,2,Regular Time,No,-345,,280,1
+NCAAB,2008/2009,Regular Season,2008-11-20,01:00,Wake Forest,NC Wilmington,120,88,Home,208,32,Regular Time,No,,,,3
+NCAAB,2008/2009,Regular Season,2008-11-20,01:30,Clemson,Wofford,93,40,Home,133,53,Regular Time,No,,,,3
+NCAAB,2008/2009,Regular Season,2008-11-20,02:00,Illinois (Chi.),Northern Iowa,84,77,Home,161,7,Regular Time,No,,,,3
+NCAAB,2008/2009,Regular Season,2008-11-20,02:00,St. Louis Billikens,Kent State,74,76,Away,150,2,Overtime,Yes,104,,-125,1
+NCAAB,2008/2009,Regular Season,2008-11-20,02:00,TCU,Nebraska,50,62,Away,112,12,Regular Time,No,179,,-222,1
+NCAAB,2008/2009,Regular Season,2008-11-20,02:05,Arkansas State,Murray State,55,47,Home,102,8,Regular Time,No,,,,3
+NCAAB,2025/2026,Play Offs,2026-03-28,23:09,Illinois,Iowa,71,59,Home,130,12,Regular Time,,-357,,261,
+NCAAB,2025/2026,Play Offs,2026-03-29,01:49,Arizona,Purdue,79,64,Home,143,15,Regular Time,,-278,,206,
+NCAAB,2025/2026,Play Offs,2026-03-29,20:15,Michigan,Tennessee,95,62,Home,157,33,Regular Time,,-455,,308,
+NCAAB,2025/2026,Play Offs,2026-03-29,23:05,Duke,UConn,72,73,Away,145,1,Regular Time,,-233,,175,
+NCAAB,2025/2026,Play Offs,2026-04-05,00:09,UConn,Illinois,71,62,Home,133,9,Regular Time,,102,,-135,
+NCAAB,2025/2026,Play Offs,2026-04-05,02:54,Arizona,Michigan,73,91,Away,164,18,Regular Time,,-118,,-112,
+NCAAB,2025/2026,Play Offs,2026-04-07,02:50,Michigan,UConn,69,63,Home,132,6,Regular Time,,-312,,229,
+NCAAB,2026/2027,Regular Season,2026-11-03,04:00,UCLA,Arizona,84,75,Home,159,9,Regular Time,,162,,-200,
+NCAAB,2026/2027,Regular Season,2026-11-03,04:00,Washington,Colgate,90,76,Home,166,14,Regular Time,,-1250,,700,
+NCAAB,2026/2027,Regular Season,2026-11-03,04:30,USC,Wisc. Milwaukee,95,63,Home,158,32,Regular Time,,-10000,,1960,
+NCAAB,2026/2027,Regular Season,2026-11-03,06:05,Hawaii,Seattle,74,73,Home,147,1,Regular Time,,-133,,110,
+NCAAB,2026/2027,Regular Season,2026-11-03,,Brigham Young,Ohio State,94,83,Home,177,11,Regular Time,,-167,,137,
+NCAAB,2026/2027,Regular Season,2026-11-03,,Georgia,N. Carolina Central,78,62,Home,140,16,Regular Time,,,,1300,
+NCAAB,2026/2027,Regular Season,2026-11-03,,SMU Mustangs,Southern Univ.,85,72,Home,157,13,Regular Time,,-10000,,1550,
+NCAAB,2026/2027,Regular Season,2026-11-03,,St. Marys (CA),Illinois State,90,85,Home,175,5,Overtime,,-303,,235,
+NCAAB,2026/2027,Regular Season,2026-11-03,,Texas State,Texas A&M-CC,67,55,Home,122,12,Regular Time,,-625,,430,
+NCAAB,2026/2027,Regular Season,2026-11-03,,VCU Rams,UALR,82,72,Home,154,10,Regular Time,,-2500,,1075,
