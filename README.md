@@ -17,7 +17,8 @@ Source: OddsPortal. The odds are the average closing prices shown by the source,
 ## The road to the 2026 title
 
 The last 7 games of the 2026 NCAA Tournament, as they appear in the sample. UConn was the underdog in all three of its
-games: it won at +175 against Duke and at +102 against Illinois, then lost the final at +229.
+games shown here, after being favoured in its first three rounds: it won at +175 against Duke and at +102 against
+Illinois, then lost the final at +229.
 
 | Date, time (Paris) | Round | Teams, as listed | Final | Closing moneyline |
 |---|---|---|---|---|
@@ -109,8 +110,8 @@ games["favourite_won"] = games["favourite"] == games["Winner"]
 
 - **Closing odds only.** No opening odds, no line movement, no spreads, no totals, no bookmaker-by-bookmaker prices.
 - **No neutral-site flag.** NCAA Tournament games and some early-season events are played on neutral courts.
-- **2008/09 stops on 7 March 2009**, in the first days of the conference tournaments, so that season has no NCAA
-  Tournament. The 2010 tournament has 63 of its 64 games, and there was no tournament in 2020.
+- **2008/09 is partial**: 774 games, none from 28 November to 18 December 2008, and it stops on 7 March 2009, in the
+  first days of the conference tournaments, so that season has no NCAA Tournament. The 2010 tournament has 63 of its 64 games, and there was no tournament in 2020.
 - **No NIT or CBI games.** One CIT game of 2015 is in the file, under `Regular Season`, listed in the README.
 - **Some games have no price for one or both sides: 3,132 of the 79,452 games played.** They include 98 games whose
   two prices at the source were inconsistent, so those cells are left empty.
