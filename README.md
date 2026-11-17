@@ -150,7 +150,7 @@ The 2026/27 season goes on in the
 [US Sports Master monthly updates](https://sportsdataolivier.gumroad.com/l/mudppx?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=monthly):
 the previous month's games of the 9 US leagues, NCAAB included, in the same columns. All 9 US leagues in one ZIP,
 NCAAB included: the
-[US Sports Master](https://sportsdataolivier.gumroad.com/l/ahlplc?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=us_sports_master).
+[US Sports Master](https://sportsdataolivier.gumroad.com/l/ahlplc?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=us_sports_master) (also on [Whop](https://whop.com/oliviersportsdata/us-sports-master-historical-closing-odds-1998-2026/?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=whop_us_sports_master)).
 
 → **[Get the full archive](https://sportsdataolivier.gumroad.com/l/chbrtv?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/ncaab-march-madness-historical-closing-odds-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=ncaab&utm_content=whop_footer)
 
